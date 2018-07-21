@@ -1,5 +1,5 @@
 
-# springboot
+# 版本1.0
 
 1.springboot+mybatis+shiro+redis+activeMq
     1.采用了通用mapper加注解试的sql 还有动态sql编写示列
